@@ -1,3 +1,4 @@
+print("ayush e22cseu1510")
 class FlightTable:
     def __init__(self):
         self.data = [
